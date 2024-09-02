@@ -1,16 +1,27 @@
-### Hi there 👋
+# 🚀 MERN Stack Developer | Tech Enthusiast | Lifelong Learner
 
-<!--
-**Lukec9/Lukec9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm a passionate 15-year-old developer specializing in the **MERN Stack** (MongoDB, Express.js, React, Node.js) and **Next.js**. I've been coding for a year, and I'm on a mission to build innovative web applications that solve real-world problems.
 
-Here are some ideas to get you started:
+## 💻 What I Do
+- **Frontend:** Crafting dynamic and responsive user interfaces with React.js and Next.js.
+- **Backend:** Building robust and scalable APIs using Node.js and Express.js.
+- **Database:** Managing and manipulating data with MongoDB.
+- **Full Stack Projects:** Combining everything to create full-fledged web apps with modern frameworks like Next.js.
+- **Styling:** Designing clean and responsive layouts with Tailwind CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning - Will learn
+- Advanced React and Next.js concepts
+- GraphQL 
+- Nest.js
+
+## 🛠️ Tools & Technologies
+- **Languages:** JavaScript (ES6+), HTML5, CSS3
+- **Frameworks:** React, Next.js, Express
+- **Databases:** MongoDB, Firebase
+- **Version Control:** Git, GitHub
+- **Other:** Redux, REST APIs, Bootstrap, Tailwind CSS
+
+
+## 👨‍💻 When I'm not coding...
+I'm probably exploring new tech trends or diving into a good book. Always looking for new challenges and opportunities to grow!
+
