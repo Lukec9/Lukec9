@@ -17,9 +17,9 @@ Hi there! I'm a passionate 15-year-old developer specializing in the **MERN Stac
 ## 🛠️ Tools & Technologies
 - **Languages:** JavaScript (ES6+), HTML5, CSS3
 - **Frameworks:** React, Next.js, Express
-- **Databases:** MongoDB, Firebase
+- **Databases:** MongoDB
 - **Version Control:** Git, GitHub
-- **Other:** Redux, REST APIs, Bootstrap, Tailwind CSS
+- **Other:** REST APIs, Tailwind CSS
 
 
 ## 👨‍💻 When I'm not coding...
