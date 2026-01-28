@@ -1,6 +1,6 @@
 # 🚀 MERN Stack Developer | Tech Enthusiast | Lifelong Learner
 
-Hi there! I'm a passionate 15-year-old developer specializing in the **MERN Stack** (MongoDB, Express.js, React, Node.js) and **Next.js**. I've been coding for a year, and I'm on a mission to build innovative web applications that solve real-world problems.
+Hi there! I'm a passionate 16-year-old developer specializing in the **MERN Stack** (MongoDB, Express.js, React, Node.js) and **Next.js**. I've been coding for a year, and I'm on a mission to build innovative web applications that solve real-world problems.
 
 ## 💻 What I Do
 - **Frontend:** Crafting dynamic and responsive user interfaces with React.js and Next.js.
